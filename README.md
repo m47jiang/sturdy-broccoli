@@ -1,2 +1,2 @@
 # sturdy-broccoli
-A robotic arm
+A robotic arm using chopsticks
